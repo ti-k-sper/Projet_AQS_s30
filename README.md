@@ -47,3 +47,8 @@ Suivez les instructions fournies pas les formateurs :
     - Contacter sans passer par la page 'contact', l'aprenant,
     - Un calendrier, contenant les périodes de formations avec le nombre d'apprenants, en cliquant dessus pouvoir voir la liste.
 
+## Étape 2 :
+
+- Maquette :
+  - Accès au site : 
+  ![Acceuil site](/ressource/maquette/accueilaccessite.png)
