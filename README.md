@@ -9,6 +9,10 @@ Suivez les instructions fournies pas les formateurs :
 
 ## Étape 1 - Cahier des charges:
 
+Suite au premier rendez-vous avec le client, récupération des images, catalogue des formations, ainsi que de la CGV.  
+Proposition de différents menus, visualition de la page acceuil.  
+Ci-dessous, les points validés et à effectuer : 
+
 - Nom de domaine : "localhost:8081" - "www.AllierQualiteSante.fr"
 - Nom du site (nom a donné au client suite recherche web) : "Allier Qualité Santé - AQS"
 - Couleurs (charte graphique du client) : 
@@ -23,7 +27,7 @@ Suivez les instructions fournies pas les formateurs :
 - Nom des pages et URL : 
   - Accueil : '/', 'Site#index', 'accueil',
   - Catégories : '/categories', 'Categories#all', 'categories',
-  - Formations : '/formations/[i:id]-[*:slug]', 'Formation#show', 'formations',
+  - Formations : '/formations/[i:id]-[*:slug]', 'Formations#show', 'formations',
   - Connexion : '/connexion', 'User#login', 'connexion',
   - Inscription : '/inscription', 'User#subscribe', 'inscription',
   - Profil : '/profil', 'User#show', 'profil',
@@ -37,7 +41,7 @@ Suivez les instructions fournies pas les formateurs :
     - Via la page profil, voir sous forme de dashboard, sa propre évolution durant sa formation avec les points validés
     et les points à améliorer (commentaire mis par le formateur (client)), comme un genre de rapport,
     - Modifier ses coordonnées,
-    - Contacter sans passer par la page 'contact', le formateur (client),
+    - Contacter le formateur (client) sans passer par la page 'contact',
     - Un calendrier.
   - Pour le client (formateur) : 
     - Via la page admin, voir sous forme de dashboard, un calendrier, le nombre d'aprenant, un accés aux différents profils,
