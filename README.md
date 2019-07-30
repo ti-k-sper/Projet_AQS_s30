@@ -53,6 +53,9 @@ Ci-dessous, les points validés et à effectuer :
 
 ## Étape 2 :
 
-- Maquette :
-  - Accès au site : 
-  ![Acceuil site](/ressource/maquette/accueilaccessite.png)
+- Maquette (mobil first):
+  - Accès au site, accueil : 
+  ![Accueil site](/ressource/maquette/accueilaccessite.png)
+  - Accueil description, domaine formation : 
+  ![Accueil site](/ressource/maquette/accueil_suite.png)
+  
